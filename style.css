@@ -1,0 +1,32 @@
+body {
+    background-image: url('./assets/background0img.jpg');
+    font-family: 'Varela Round', sans-serif;
+}
+
+
+.cover-photo {
+    width: 50%;
+    background-color: rgb(28, 162, 28);
+    font-size: 130%;
+    font-weight: bold;
+    float: left;
+    height: 50%;
+   
+}
+
+
+.carousel-container {
+    float: left;
+    width: 50%;
+}
+
+.no-firefighters {
+    width: 50%;
+}
+
+
+.material-icons {
+    color: red;
+    font-size: 1500%;
+    position: absolute;
+}
